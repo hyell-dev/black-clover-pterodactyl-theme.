@@ -1,0 +1,1 @@
+# black-clover-pterodactyl-theme.
